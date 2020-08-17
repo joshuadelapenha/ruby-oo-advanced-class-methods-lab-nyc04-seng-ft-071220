@@ -21,5 +21,9 @@ class Song
     song.name = name
     song
   end
+  
+  def create_by_name
+    
+  end
 
 end
